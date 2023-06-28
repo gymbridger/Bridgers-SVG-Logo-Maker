@@ -20,7 +20,7 @@ To install this project, clone the repository and navigate to the project's root
 
 ## Usage
 
-To run the SVG file, use the following command in the project's root directory: "node index"
+To run the SVG file, use the following command in the project's root directory: `node index`
 
 ## Credits 
 
