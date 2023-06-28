@@ -16,11 +16,11 @@ I built this SVG Logo Maker application as a project to showcase my object-orien
 
 ## Installation
 
-To install this project, clone the repository and navigate to the project's root directory.
+To install this project, clone the repository.
 
 ## Usage
 
-To run the SVG file, use the following command in the project's root directory: `node index`
+To run the SVG file, use the following command in the terminal: `node index`.
 
 ## Credits 
 
